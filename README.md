@@ -1,7 +1,7 @@
 
 # Portfolio Website
 
-This repository contain the source code for my personal portfolio website, which was built with Next.js. The website highlights my projects, skills, and experiences and has a clean and modern design.
+This repository contains the source code for my personal portfolio website, which was built with Next.js. The website highlights my projects, skills, and experiences and has a clean and modern design.
 
 ## About
 
